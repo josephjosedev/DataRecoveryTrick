@@ -1,4 +1,4 @@
-**EaseUS Data Recovery Wizard Pro**
+**Data Recovery Tools**
 
 <p>Recover the Lost, Deleted, Formatted, Corrupt Drive Files Completely & Easily</p>
 
