@@ -3,7 +3,7 @@
 <p>Recover the Lost, Deleted, Formatted, Corrupt Drive Files Completely & Easily</p>
 
 - [Data Recovery Wizard Pro](https://www.easeus.com/datarecoverywizardpro/)
-- [Power Data Recovry](https://www.minitool.com/data-recovery-software/)
+- [Power Data Recovery](https://www.minitool.com/data-recovery-software/)
 
 ```
  
