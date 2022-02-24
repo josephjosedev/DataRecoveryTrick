@@ -12,6 +12,7 @@
   
 </details>
 - [Data Recovery Wizard Pro](https://www.easeus.com/datarecoverywizardpro/)
+
 - [Power Data Recovery](https://www.minitool.com/data-recovery-software/)
 
 
