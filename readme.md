@@ -14,6 +14,7 @@
 - [Data Recovery Wizard Pro](https://www.easeus.com/datarecoverywizardpro/)
 
 - [Power Data Recovery](https://www.minitool.com/data-recovery-software/)
+- [Lazesoft](https://www.lazesoft.com/)
 
 
 <p>HOW TO CLONE HDD to HDD</p>
